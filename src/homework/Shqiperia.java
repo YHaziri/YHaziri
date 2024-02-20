@@ -10,16 +10,17 @@ public class Shqiperia {
         String b="Greke";
         String c="Vllehe";
         String d="Sllave";
-        return a,b,c,d;
+        return a;
     }
-    public String besimet(){
-        String a ="Islami";
-        String b ="Katolicizmi";
-        String c ="Ortodoksizmi";
-        String d ="Ateizmi";
-        return a,b,c,d;
+    public String besimet() {
+        String a = "Islami";
+        String b = "Katolicizmi";
+        String c = "Ortodoksizmi";
+        String d = "Ateizmi";
+        return a;
     }
     public int territori(){
         int a= 28748;
+        return  a;
     }
 }

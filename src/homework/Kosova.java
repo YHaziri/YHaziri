@@ -12,14 +12,14 @@ public class Kosova {
         String d = "Turq";
         String e = "Rom";
         String f = "Goran";
-        return a,b,c,d,e,f;
+        return a;
 
     }
     public String besimet(){
         String a ="Islami";
         String b ="Krishterimi ortodoks";
         String c ="Krishterimi katolik";
-        return a,b,c;
+        return a;
     }
     public int territori(){
         int a = 10887;
